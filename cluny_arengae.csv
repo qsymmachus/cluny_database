@@ -1,0 +1,112 @@
+id,charter_num,date,donor_type,act_summary,arenga_type
+1,1728,987,cleric,The priest and canon Grimald makes a donation,unique
+2,1731,987,single,A certain Girbald makes a donation,C
+3,1732 / A 193,987,cleric,The priest Raimbert makes a donation,A
+4,1744 / A 70,987–988,single,A certain Evrardus makes a donation,B
+5,1749 / A 758,990,family,A certain Guandrannus with the consent of his wife makes a donation,C
+6,1751 / A 175,987–996,family,Arnaldus and his wife Odila make a donation,C
+7,1769 / B 162,987–996,single,Ramnaldus makes a donation,unique
+8,1784 / A 44,988,cleric,Richaudus clericus makes a donation,unique
+9,1786 / A 136,988,cleric,Gerlannus the deacon (levita) and his brother Heldebert and his wife Odila make a donation,A
+10,1792 / A 600,988,single,Aimo makes a donation,C
+11,1806 / A 155,989,cleric,Berardus canonius et levita makes a donation,A
+12,1814 / A 124,989-990,cleric,Adalardus sacerdos makes a donation,unique
+13,1829 / A 609,990,single,Bernard makes a donation,C
+14,1837 / A 6,993,comes,William comes makes a donation,D
+15,1840 / B 517,990,family,Dodo and his wife Lanberga make a donation,A2
+16,1845 / A 80,990–991,single,Maiolus makes a donation,A
+17,1884 / A 473,991,cleric,Robert the presbyter makes a donation,E
+18,1886 / A 216,991,family,Odila and her son Malguinus make a donation,E
+19,1891 / A 107,991–992,single,Heldierius makes a donation,A
+20,1892 / A 357,991–992,family,Adalgerius and his brother Maimbodus make a donation,E
+21,1897 / A 145,991–992,single,Randefredus makes a donation,C2
+22,1899 / A 296,991–992,cleric,Otgerius and Manuel presbyters along with one helemosinarius Hubert make a donation,A
+23,1909 / A 282,992,single,Adalgerius makes a donation,A2
+24,1911 / A 166,992,family,Azelinus vuadiator and his brother Arnulf make a donation,G
+25,1913 / A 223,992,single,Aldulf makes a donation,J
+26,1916 / A 162,992,group,Arlieus and Eva vuadii of Ademar make a donation,G
+27,1920 / A 150,992,single,Adam makes a donation,unique
+28,1922 / A 406,992,single,Ingelgardus at the urging of his uadiatores Hugh and Girard makes a donation,H
+29,1927 / A 487,992,single,Girard makes a donation,C
+30,1933 / A 16,992 – 993,family,Land is shared between the monks of Cluny and one Engela and her sons,unique
+31,1937 / A 221,992 – 993,single,Malguin makes a donation,A
+32,1940 / B 457,994–996,single,Girbert makes a donation,A
+33,1941 / A 756,993,family,Aioardus with the consent of his wife Fredeburga and his son Robert makes a donation,H
+34,1942 / A 218,993,single,Girbald makes a donation,C
+35,1944 / A 148,993,family,Ratherius and his wife Berta make a donation,B
+36,1947 / A 9,993,cleric,Walter bishop Eduensis/Aeduensis makes a donation,I
+37,1948 / B 757,993,family,Martin and his wife Gunteld and their sons Martin and Duran make a donation,A2
+38,1952 / A 810,993,family,Vuidradus and his wife Dominica make a donation,A3
+39,1959 / A 159,993,family,Milo makes a donation for the soul of his wife Ermengard,B
+40,1963 / B 599,993,family,Humbert and his wife Girbergia make a donation,B
+41,1966 / A 229,993 – 994,single,Wido and his wife Odila make a donation,A3
+42,1976 / B 159,993–996,single,Isembrannus makes a donation,J
+43,1982 / B 308 ,993–996,group,Adalbert Presbyter Otbert and Ermenald make a donation,A3
+44,1984 / B 47,999-1011,cleric,Hugo bishop of Geneva makes a donation,unique
+45,1999 / B 453,c. 1000,single,Hugh makes a donation,H
+46,2000 / B 643,995,single,Wigo makes a donation,A3
+47,2001 / B 780,994–1016,cleric,Eldinus the priest makes a donation,A3
+48,2003 / B 695,c. 1000,single,Otgerius makes a donation,J
+49,2005 / B 54,c. 1000 ,single,Humbertus makes a donation,unique
+50,2012 / B 70,993–1048,single,Wandalmodis makes a donation,unique
+51,2016,993–1048,single,Aymiricus makes a donation,unique
+52,2018 / B 130,994–1000,family,Alindrada and her sons Gauzeran and Ebrard make a donation,C
+53,2029,993–1048,single,Teutbert makes a donation,unique
+54,2032,994–1016,single,Scripta (a real woman's name!) makes a donation,C
+55,2034 / B 648,994–998,family,Warner and his wife Rotrud make a donation,H
+56,2038 / B 447,1000–1010,single,Eldric makes a donation,H
+57,2041 / B 767,993–1048,single,Girberga wife of Otmar makes a donation,J
+58,2042 / B 793,994–1000,single,Durann makes a donation for the burial of his son Humbert,K
+59,2057 / B 475,993–1048,single,Stephen makes a donation,A
+60,2058 / B 627,993–1048,single,Ebrardus makes a donation,G
+61,2063 / B 593,993–1048,cleric,Beraldus clericus makes a donation,unique
+62,2064 / B 628,994–1020,family,Durannus and his mother Aeva make a donation,C
+63,2065 / B 594,993–1048,family,Anselm brother of one dead Henry and his son Bernard and wife Adeleidis make a donation on behalf of Henry,K
+64,2067 / B 617,1000–1030,single,Odo makes a donation for the souls of his brother William and his amita Tezanis,unique
+65,2082 / B 775,993–1048,single,Durannus makes a donation,unique
+66,2084 / B 451,994–1010,single,Roclenus makes a donation,A2
+67,2085 / B 658,993–1048,single,Roclenus makes a donation (including himself!),B2
+68,2089 / B 201,993–1048,family,Hugh with the consent of his wife Ermentrude makes a donation,B2
+69,2091 / B 101,993–1048,family,Gauzerannus with the consent of his wife and sons makes a donation,D
+70,2093 / B 146,993–1048,single,Bernard makes a donation,unique
+71,2096 / B 683,993–1048,single,Teuza makes a donation,J
+72,2116 / B 110,993–1048,family,Eva and her daughter Joza make a donation,C
+73,2125 / B 194,993–1048,family,Ardanius and his brothers make a donation,unique
+74,2129 / B 214,993–1048,single,Aremborga makes a donation,A3
+75,2135 / B 267,994–1008,single,Beraldus makes a donation,unique
+76,2148 / B 399,993–1048,family,Girbaldus and his son Leotaldus make a donation,C
+77,2172 / B 444,993–1048,family,Bernard and his wife Teiza make a donation,C
+78,2190 / B 546,994–1005,single,Aldigerius makes a donation,C
+79,2191 / B 547,994,single,Ainard makes a donation on behalf of his brother Bernard,C
+80,2201 / B 604,993–1048,family,Aimenildis femina at the advice and with the consent of her son Gerard makes a donation,D
+81,2211 / B 641,993–1048,single,Odo makes a donation,unique
+82,2218 / B 701,993–1048,family,An unnamed woman with the consent of her sons and brothers makes a donation,A3
+83,2219 / B 708,993–1048,family,Erveus and his wife Guandalmodis and their son Wido make a donation,C
+84,2222 / B 716,994–1015,single,Heldigrinus makes a donation on behalf of his Uncle Achimi a presbyter and his relative Isembald,C
+85,2228 / B 762,993–1048,single,Eva wife of a now dead Lezelin makes a donation,C
+86,2240 / B 559,994,family,Warulf and his wife Blismodis make a donation,H
+87,2246 / B 526,994,single,Hugh makes a donation,B2
+88,2251 / A 101,994,family,Maimbert and his wife Christina and their son Tresmundus make a donation,H
+89,2262 / B 163,994,cleric,Girbaldus presbyter makes a donation,A3
+90,2278 / B 68,994,single,Bernaldus makes a donation,A3
+91,2279 / B 573,before 996,single,Raimodis makes a donation,C
+92,2280 / B 441,994–1032,family,Adalardus and his wife Ocdela and their sons make a donation,D
+93,2289 / A 425,995,single,Hubertus makes a donation,H
+94,2292 / B 104,995,comes,Artaldus comes makes a donation,H
+95,2301 / A 109,995,group,Teza wife of Drogo along with his wadiator make a donation,B2
+96,2302 / A 340,995,family,Aylaldus and his wife Tetza make a donation,unique
+97,2308 / B 388,996,group,Wadiatores of Tebrand Drebergia his mother among others make a donation on behalf of Tebrand,H
+98,2310,996–997,family,Bernard and his wife Aalgardis make a donation,B
+99,2318 / B 474,996–1031,family,Eldinus and his wife Guntrudi make a donation,C
+100,2319 / B 346,c. 996,family,Dodo with the consent of his son Dodo makes a donation,A
+101,2328 / B 404,1000,single,Bego makes a donation,C
+102,2360 / B 325,996–1031,family,Wido and his wife Eymenildis make a donation,unique
+103,2369 / B 500,996–1031,single,Richard makes a donation,A
+104,2375 / B 595,996–1031,family,Bernard and his wife Ocenda make a donation,C
+105,2384 / B 508,997,family,Ozenda and her sons Durannus and Pontius make a donation,H
+106,2385 / B 652,997,single,Arbert makes a donation,H
+107,2401 / B 533,997,family,Winebaldus and his wife Tez make a donation,B2
+108,2408 / B 42,997–1030,cleric,Teotardus clericus makes a donation,unique
+109,2428 / B 113,996–1015,family,Wido brother of Milo and Aeva his wife make a donation on behalf of Milo,D
+110,2430 / B 124,997–1031,single,Arleius makes a donation,B
+111,2445 / B 611,997–1031,single,Gauzerannus makes a donation on behalf of his uncle,C
